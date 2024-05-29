@@ -5,6 +5,6 @@ interface class Http {
   }
 
   void setAttributes(Map<String,dynamic> configs) {
-    
+
   }
 }
